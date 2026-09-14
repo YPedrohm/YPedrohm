@@ -6,8 +6,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0B1F0B,100:39FF14&height=130&section=header&text=YPedrohm&fontSize=48&fontColor=39FF14&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<br>
-
 ### `Software Development • Cybersecurity • Technology`
 
 <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,git,github,linux" />
@@ -58,15 +56,15 @@ STATUS: ONLINE
 <div align="center">
 
 <a href="https://github.com/YPedrohm/100-days-of-python">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YPedrohm&repo=100-days-of-python&theme=dark&hide_border=true&bg_color=050505&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF" />
+<img src="https://img.shields.io/badge/100%20Days%20of%20Python-050505?style=for-the-badge&logo=python&logoColor=39FF14&labelColor=050505" />
 </a>
 
 <a href="https://github.com/YPedrohm/java-fatec">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YPedrohm&repo=java-fatec&theme=dark&hide_border=true&bg_color=050505&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF" />
+<img src="https://img.shields.io/badge/Java%20Fatec-050505?style=for-the-badge&logo=openjdk&logoColor=39FF14&labelColor=050505" />
 </a>
 
 <a href="https://github.com/YPedrohm/desenvolvimento-web-fatec">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YPedrohm&repo=desenvolvimento-web-fatec&theme=dark&hide_border=true&bg_color=050505&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF" />
+<img src="https://img.shields.io/badge/Web%20Development-050505?style=for-the-badge&logo=html5&logoColor=39FF14&labelColor=050505" />
 </a>
 
 </div>
@@ -77,9 +75,9 @@ STATUS: ONLINE
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YPedrohm&show_icons=true&hide_border=true&bg_color=050505&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&ring_color=39FF14" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YPedrohm&show_icons=true&hide_border=true&bg_color=050505&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&ring_color=39FF14&cache_seconds=1800" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YPedrohm&layout=compact&hide_border=true&bg_color=050505&title_color=39FF14&text_color=FFFFFF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YPedrohm&layout=compact&hide_border=true&bg_color=050505&title_color=39FF14&text_color=FFFFFF&cache_seconds=1800" />
 
 <br><br>
 
@@ -94,9 +92,9 @@ STATUS: ONLINE
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YPedrohm/YPedrohm/output/dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YPedrohm/YPedrohm/output/dist/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YPedrohm/YPedrohm/output/dist/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YPedrohm/YPedrohm/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YPedrohm/YPedrohm/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/YPedrohm/YPedrohm/output/github-snake.svg" alt="GitHub Contribution Snake">
 </picture>
 
 </div>
