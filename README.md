@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+SYSTEM+ONLINE;%3E+WELCOME%2C+PEDRO;%3E+DEVELOPER+IN+PROGRESS..." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+SYSTEM+ONLINE;%3E+WELCOME%2C+PEDRO;%3E+BUILDING+MY+PATH+TO+CYBERSECURITY..." alt="Typing Animation"/>
 
 <br>
 
@@ -8,7 +8,7 @@
 
 ### `Software Development • Cybersecurity • Technology`
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,github,linux" />
 
 <br><br>
 
@@ -21,32 +21,39 @@
 ## `> WHOAMI`
 
 ```text
-┌──[PEDRO@NIGHT-CITY]─[~]
-└─$ whoami
-
 ADS student @ Fatec Bragança Paulista
 
-Learning:
+Currently building my foundation in:
+→ Programming
 → Python
-→ Java
 → Web Development
-→ Linux & Networking
+→ Linux
+→ Networking
 → Cybersecurity
 
-STATUS: ONLINE
+TARGET: CYBERSECURITY
+STATUS: LEARNING & BUILDING
 ```
 
 ---
 
-## `> CURRENT.MISSION`
+## `> ROADMAP`
 
 ```text
-[████████████████░░░░] Programming
-[██████████████░░░░░░] Python
-[████████████░░░░░░░░] Java
-[███████████░░░░░░░░░] Cybersecurity
+[01] PROGRAMMING
+     └─ Building strong logic with Python
 
-> NEXT OBJECTIVE: FIRST TECH INTERNSHIP
+[02] SYSTEMS
+     └─ Linux, operating systems & fundamentals
+
+[03] NETWORKING
+     └─ Understanding how systems communicate
+
+[04] CYBERSECURITY
+     └─ Developing security knowledge and practical skills
+
+[05] CAREER
+     └─ First Tech Internship → Cybersecurity
 ```
 
 ---
@@ -60,7 +67,7 @@ STATUS: ONLINE
 </a>
 
 <a href="https://github.com/YPedrohm/java-fatec">
-<img src="https://img.shields.io/badge/Java%20Fatec-050505?style=for-the-badge&logo=openjdk&logoColor=39FF14&labelColor=050505" />
+<img src="https://img.shields.io/badge/Fatec%20Projects-050505?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=050505" />
 </a>
 
 <a href="https://github.com/YPedrohm/desenvolvimento-web-fatec">
@@ -87,20 +94,6 @@ STATUS: ONLINE
 
 ---
 
-## `> CONTRIBUTIONS`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YPedrohm/YPedrohm/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YPedrohm/YPedrohm/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/YPedrohm/YPedrohm/output/github-snake.svg" alt="GitHub Contribution Snake">
-</picture>
-
-</div>
-
----
-
 ## `> CONNECT`
 
 <div align="center">
@@ -121,6 +114,6 @@ STATUS: ONLINE
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:0B1F0B,100:050505&height=90&section=footer" width="100%"/>
 
-<sub><code>© 2026 YPedrohm // NIGHT CITY NETWORK</code></sub>
+<sub><code>© 2026 YPedrohm // BUILDING THE FUTURE</code></sub>
 
 </div>
